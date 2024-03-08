@@ -1,25 +1,25 @@
-💻 DevOps Enthusiast | Solution Architect Student | Tech Lover 🚀
+💻 DevOps Enthusiast | Solution Architect Student | Tech Lover 🚀<br>
 
-About Me:
+About Me:<br>
 
-Passionate about DevOps, cloud technologies, and CI/CD pipelines ⚙️
-Learning the ropes of Solution Architecture ☁️
-Skilled in Bash, Terraform, Generative AI, Networking, GitHub, and Kubernetes 🛠️
-Fascinated by the power of microservices 🧩
-Aspiring CNCF Ambassador 🌟
+Passionate about DevOps, cloud technologies, and CI/CD pipelines ⚙️<br>
+Learning the ropes of Solution Architecture ☁️<br>
+Skilled in Bash, Terraform, Generative AI, Networking, GitHub, and Kubernetes 🛠️<br>
+Fascinated by the power of microservices 🧩<br>
+Aspiring CNCF Ambassador 🌟<br>
 
-What I'm Currently Exploring:
-Deepening my cloud expertise ☁️
-Automating everything with CI/CD 💪
-Experimenting with cutting-edge Generative AI tools 🤖
-Building scalable microservice architectures 🌐
+What I'm Currently Exploring:<br>
+Deepening my cloud expertise ☁️<br>
+Automating everything with CI/CD 💪<br>
+Experimenting with cutting-edge Generative AI tools 🤖<br>
+Building scalable microservice architectures 🌐<br>
 
-Always Up For:
-Collaborating on exciting projects 🤝
-Learning from the awesome tech community 🧠
-Expanding my DevOps toolkit 🧰
+Always Up For:<br>
+Collaborating on exciting projects 🤝<br>
+Learning from the awesome tech community 🧠<br>
+Expanding my DevOps toolkit 🧰<br>
 
-Let's Connect!
-Feel free to reach out, and let's build something cool together!
-Email: hassanhuzaifa19@gmail.com
+Let's Connect!<br>
+Feel free to reach out, and let's build something cool together!<br>
+Email: hassanhuzaifa19@gmail.com<br>
 linkedin: www.linkedin.com/in/huzaifa-hassan-3b588726b
